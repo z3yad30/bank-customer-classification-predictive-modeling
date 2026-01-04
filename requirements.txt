@@ -1,0 +1,6 @@
+# FILE: requirements.txt
+REQUIREMENTS_CONTENT: |
+  pandas
+  numpy
+  scikit-learn
+  jupyter
